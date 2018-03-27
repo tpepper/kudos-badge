@@ -24,3 +24,9 @@ embedded display on a web page.
  * GithubID: s-rusev
  * Message: Thanks for helping debug weird javascript!!
 
+* ![Tada](https://assets-cdn.github.com/images/icons/emoji/unicode/1f389.png)
+ * Date: Tue Mar 27 16:16:08 PDT 2018
+ * Name: Eric Brown
+ * GithubID: ericwb
+ * Message: Thanks tinkering on notifications
+
