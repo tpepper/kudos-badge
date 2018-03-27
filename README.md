@@ -12,3 +12,9 @@ embedded display on a web page.
  * GithubID: nishakm
  * Message: Thank you for proposing this idea for giving kudos badges!
 
+* ![Tada](https://assets-cdn.github.com/images/icons/emoji/unicode/1f389.png)
+ * Date: Tue Mar 27 16:10:26 PDT 2018
+ * Name: Ivana Yovcheva
+ * GithubID: iyovcheva
+ * Message: Thanks for brainstorming all night long!
+
