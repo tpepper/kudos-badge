@@ -18,3 +18,9 @@ embedded display on a web page.
  * GithubID: iyovcheva
  * Message: Thanks for brainstorming all night long!
 
+* ![Tada](https://assets-cdn.github.com/images/icons/emoji/unicode/1f389.png)
+ * Date: Tue Mar 27 16:12:42 PDT 2018
+ * Name: Sabo Rusev
+ * GithubID: s-rusev
+ * Message: Thanks for helping debug weird javascript!!
+
